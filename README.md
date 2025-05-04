@@ -6,9 +6,19 @@ Welcome to the official issue tracker for the [SCCN.space](https://sccn.space/) 
 
 This issue tracker helps us identify and resolve problems efficiently. By reporting issues here, you contribute directly to improving the SCCN.space experience for all Commanders.
 
+## How to Submit an Issue
+
+If you're new to GitHub Issues, here’s a quick guide:
+
+1.  **GitHub Account:** You'll need a free GitHub account to submit an issue. You can sign up or log in at [github.com](https://github.com/).
+2.  **Navigate to Issues:** Go directly to our issues page: [https://github.com/nostalgicham/sccn.space/issues](https://github.com/nostalgicham/sccn.space/issues)
+3.  **Create New Issue:** Click the green "New issue" button typically found near the top right of the issues list.
+4.  **Fill Out Details:** Provide a clear title and follow the guidelines in the "Reporting an Issue" section below to describe the problem effectively.
+5.  **Submit:** Click "Submit new issue" when you're done.
+
 ## Reporting an Issue
 
-Before submitting a new issue, please quickly check if a similar one already exists.
+Before submitting a new issue, please quickly check if a similar one already exists using the search bar on the issues page.
 
 When reporting a **bug** or **visual glitch**, please include as much detail as possible:
 
